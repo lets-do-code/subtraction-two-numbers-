@@ -1,0 +1,23 @@
+//WAP to subtraction of two numbers
+
+#include<iostream>
+
+#include<cmath>
+
+using namespace std;
+
+int main()
+
+{
+
+int n1,n2,sub;
+
+cin>>n1>>n2;
+
+sub=n1-n2;
+
+cout<<"Sub of two numbers is:"<<sub<<endl;
+
+return 0;
+
+}
